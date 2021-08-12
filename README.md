@@ -43,6 +43,7 @@ The References and Proofs are available here as follows.
 3. [Hostel Team Representative in Wall Painting](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Wall%20Painting.jpeg)
 4. [Art Portfolio]()
 5. [Ganga Hostel Aquatic Team Member](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Swimming%20Team%20Member%20-%20Ganga%20Hostel.png)
+6. [GoodReads Profile for more info](https://www.goodreads.com/user/show/85351335-veerendra)
 
 
 
