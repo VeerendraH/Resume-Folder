@@ -13,10 +13,6 @@ The References and Proofs are available here as follows.
 2. [10th class short memo](Proofs/Education/10%20Short%20Memo.jpg)
 3. [Intermediate Short Memo](Proofs/Education/Intermediate%20Short%Memo.jpg)
 
-## Relevant Coursework and Skills
-1. [IITM Gradesheet](Proofs/Relevant%20Coursework%20and%20Skills/Grades%20Report.pdf)
-2. [Online Certication - MATLAB](Proofs/Relevant%20Coursework%20and%20Skills/MATLAB%20Certification)
-
 ## Scholastic Achievements
 1. [Provisional Seat Allotment Letter](Proofs/Scholastic%20Achievements/Provisional%20Seat%20Allotment%20Letter.pdf)
 2. [Resume Undertaking](Proofs/Scholastic%20Achievements/Resume%20Undertaking.pdf)
@@ -28,10 +24,15 @@ The References and Proofs are available here as follows.
 4. [AMTDC Internship Certificate](Proofs/Professional%20Experience/Veerendra%20AMTDC.pdf) and [AMTDC Internship Email Proof](Proofs/Professional%20Experience/AMTDC.pdf)
 
 ## Projects
-1. [Gibbs Ensemble Monte Carlo Simulations](Proofs/Projects/Molecular%20Dynamics%Course%Project) and [Github Repository](https://github.com/VeerendraH/GibbsEnsembleMonteCarlo)
-2. [ROBOT ARM STUDIO](https://github.com/VeerendraH/6-DOF-ROBOT-ARM) and [Website](https://veerendrah.github.io/Robot-Studio/)
-3. [PH5730 H2 Molecule Project](https://github.com/VeerendraH/Projects-in-Code/tree/master/H2%20Project)
-4. [Power Generation in India - Data Analysis](https://veerendrah.github.io/Power-Generation-India/) and [Code](https://github.com/VeerendraH/Power-Generation-India)
+1. [Dual Degree Project Confirmation]()
+2. [Gibbs Ensemble Monte Carlo Simulations](Proofs/Projects/Molecular%20Dynamics%Course%Project) and [Github Repository](https://github.com/VeerendraH/GibbsEnsembleMonteCarlo)
+3. [ROBOT ARM STUDIO](https://github.com/VeerendraH/6-DOF-ROBOT-ARM) and [Website](https://veerendrah.github.io/Robot-Studio/)
+4. [PH5730 H2 Molecule Project](https://github.com/VeerendraH/Projects-in-Code/tree/master/H2%20Project)
+5. [Power Generation in India - Data Analysis](https://veerendrah.github.io/Power-Generation-India/) and [Code](https://github.com/VeerendraH/Power-Generation-India)
+
+## Relevant Coursework and Skills
+1. [IITM Gradesheet](Proofs/Relevant%20Coursework%20and%20Skills/Grades%20Report.pdf)
+2. [Online Certication - MATLAB](Proofs/Relevant%20Coursework%20and%20Skills/MATLAB%20Certification)
 
 ## Positions of Responsibility
 1. [Team Abhiyaan Email Proof](Proofs/Positions%20of%20Responsibility/Abhiyaan.png)
