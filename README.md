@@ -15,7 +15,9 @@ The References and Proofs are available here as follows.
 
 ## Scholastic Achievements
 1. [Provisional Seat Allotment Letter](Proofs/Scholastic%20Achievements/Provisional%20Seat%20Allotment%20Letter.pdf)
-2. [Resume Undertaking](Proofs/Scholastic%20Achievements/Resume%20Undertaking.pdf)
+2. [KVPY Aptitude Test Results](Proofs/Scholastic%20Achievements/KVPY%20-%201.pdf)
+3. [NTSE Level 1 Proof](Proofs/Scholastic%20Achievements/NTSE.pdf)
+4. [NEST Newspaper Clipping](Proofs/Scholastic%20Achievements/NEST.jpeg)
 
 ## Professional Experience
 1. [Caterpillar Offer Letter](Proofs/Professional%20Experience/Veerendra%20Harshal%20Offer%20Letter%20Caterpillar.pdf) and [Caterpillar Completion Certificate](Proofs/Professional%20Experience/Veerendra%20Internship%20Completion%20Certificate%20Caterpillar.pdf)
@@ -24,7 +26,7 @@ The References and Proofs are available here as follows.
 4. [AMTDC Internship Certificate](Proofs/Professional%20Experience/Veerendra%20AMTDC.pdf) and [AMTDC Internship Email Proof](Proofs/Professional%20Experience/AMTDC.pdf)
 
 ## Projects
-1. [Dual Degree Project Confirmation]()
+1. [Dual Degree Project Confirmation](Proofs/Projects/DDP.jpeg)
 2. [Gibbs Ensemble Monte Carlo Simulations](Proofs/Projects/Molecular%20Dynamics%Course%Project) and [Github Repository](https://github.com/VeerendraH/GibbsEnsembleMonteCarlo)
 3. [ROBOT ARM STUDIO](https://github.com/VeerendraH/6-DOF-ROBOT-ARM) and [Website](https://veerendrah.github.io/Robot-Studio/)
 4. [PH5730 H2 Molecule Project](https://github.com/VeerendraH/Projects-in-Code/tree/master/H2%20Project)
@@ -39,7 +41,7 @@ The References and Proofs are available here as follows.
 2. [E-Cell Cartoonist Certificate](Proofs/Positions%20of%20Responsibility/Ecell%20Certificate.pdf) and [A Cartoon Post](https://www.facebook.com/ECELLIITM/posts/10156654218543334)
 
 ## Cocurricular and Extracurricular Activities
-1. [Resume Undertaking](Proofs/Scholastic%20Achievements/Resume%20Undertaking.pdf)
+1. [Mechanica Newspaper Clipping](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Tec2farm.jpg)
 2. [NSS - Grade Card](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Grades%20Report.pdf)
 3. [Hostel Team Representative in Wall Painting](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Wall%20Painting.jpeg)
 4. [Art Portfolio]()
