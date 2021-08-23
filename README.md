@@ -11,7 +11,7 @@ The References and Proofs are available here as follows.
 ## Education
 1. [IITM Gradesheet](Proofs/Education/Grades%20Report.pdf) 
 2. [10th class short memo](Proofs/Education/10%20Short%20Memo.jpg)
-3. [Intermediate Short Memo](Proofs/Education/Intermediate%20Short%Memo.jpg)
+3. [Intermediate Short Memo](Proofs/Education/Intermediate%20Short%20Memo.jpg)
 
 ## Scholastic Achievements
 1. [Provisional Seat Allotment Letter](Proofs/Scholastic%20Achievements/Provisional%20Seat%20Allotment%20Letter.pdf)
