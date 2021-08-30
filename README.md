@@ -42,7 +42,7 @@ The References and Proofs are available here as follows.
 2. [E-Cell Cartoonist Certificate](Proofs/Positions%20of%20Responsibility/Ecell%20Certificate.pdf) and [A Cartoon Post](https://www.facebook.com/ECELLIITM/posts/10156654218543334)
 
 ## Cocurricular and Extracurricular Activities
-1. [Mechanica Newspaper Clipping](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Tec2farm.jpg)
+1. [Mechanica Newspaper Clipping](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Tech2farm.pdf)
 2. [NSS - Grade Card](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Grades%20Report.pdf)
 3. [Hostel Team Representative of Ganga](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Wall%20Painting.jpeg) and [Litsoc 2nd prize winner](Proofs/Co-Curricular%20and%20Extra-Curricular%20Activities/Wall%20Painting.pdf)
 4. [Art Portfolio]()
